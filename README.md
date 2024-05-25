@@ -3,7 +3,7 @@
 ![Annotated line chart](./annotated-line-example.png)
 
 ## Demo
-https://handsondataviz.github.io/highcharts-line-annotated/
+https://tally1319.github.io/vis/
 
 Sample data from the World Bank, https://databank.worldbank.org/source/world-development-indicators
 
